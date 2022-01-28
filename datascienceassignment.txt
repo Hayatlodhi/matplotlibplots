@@ -1,0 +1,3 @@
+daily one matplotlib plot in ipynb file and extract pdf file.
+https://www.w3resource.com/graphics/matplotlib/
+https://www.w3resource.com/graphics/matplotlib/basic/index.php
